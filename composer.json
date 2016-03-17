@@ -1,0 +1,22 @@
+{
+    "name": "AmeerSalahaldeen/laravel-parser",
+    "description": "Simple Format Parser For Laravel 4",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ameer",
+            "email": "ameer@yamsafer.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "symfony/yaml": "2.4.*",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "AmeerSalahaldeen\\Parser": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
